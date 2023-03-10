@@ -1,4 +1,4 @@
-# create-new-react-app
+# mawi-react-app
 
 ### I created this repository to have a clean project that is always ready to start new apps in react, with all my favorite tools that I use to develop. I would like to have all the necessary tols and an easy-to-use method already set up, in order to be more productive during the development of your apps.
 
