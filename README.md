@@ -10,3 +10,10 @@ Folder management is very simple, /public for index.html and /src for the react 
 -> Clone repository in your local machine, rename the folder and enter it. -> 'npm install' -> 'npm start' for start developing. -> your app will serve on http://localhost:3000.
 
 Enjoy it!
+
+
+[![Maintainability](https://api.codeclimate.com/v1/badges/d813b789c3a2085bd8f4/maintainability)](https://codeclimate.com/github/teamdigitale/italia-app/maintainability)
+
+
+LICENZA - [![License](https://img.shields.io/github/license/italia/bootstrap-italia.svg)](https://github.com/MawiDev/mawi-react-app/LICENSE)
+ISSUES - [![GitHub issues](https://img.shields.io/github/issues/italia/bootstrap-italia.svg)](https://github.com/MawiDev/mawi-react-app/issues)
