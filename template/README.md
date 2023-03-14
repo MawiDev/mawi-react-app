@@ -1,24 +1,34 @@
-# mawi-react-app
-
-### I created this repository to have a clean project that is always ready to start new apps in react, with all my favorite tools that I use to develop. I would like to have all the necessary tools and an easy-to-use method already set up, in order to be more productive during the development of your apps.
-
-
-
-#### Repository created to start a new react app manually without using tools like parcel or vitejs.
-what will be installed will be:
-
--webpack stuff
--react and react-dom
--babel stuff
--post css, css-loader etc..
--tailwindcss
-
-Folder management is very simple, /public for index.html and /src for the react app.
-
-
--> Clone repository in your local machine, rename the folder and enter it.
--> 'npm install'
--> 'npm start' for start developing.
--> your app will serve on http://localhost:3000.
-
-Enjoy it!
+## devDependencies
+- "@babel/cli": "^7.21.0",
+- "@babel/core": "^7.21.0",
+- "@babel/plugin-proposal-class-properties": "^7.18.6",
+- "@babel/plugin-proposal-private-methods": "^7.18.6",
+- "@babel/plugin-proposal-private-property-in-object": "^7.21.0",
+- "@babel/plugin-transform-runtime": "^7.21.0",
+- "@babel/preset-env": "^7.20.2",
+- "@babel/preset-react": "^7.18.6",
+- "@babel/runtime": "^7.21.0",
+- "autoprefixer": "^10.4.14",
+- "babel-loader": "^9.1.2",
+- "clean-webpack-plugin": "^4.0.0",
+- "css-loader": "^6.7.3",
+- "depcheck": "^1.4.3",
+- "html-loader": "^4.2.0",
+- "html-webpack-plugin": "^5.5.0",
+- "mini-css-extract-plugin": "^2.7.3",
+- "postcss": "^8.4.21",
+- "postcss-loader": "^7.0.2",
+- "postcss-preset-env": "^8.0.1",
+- "style-loader": "^3.3.2",
+- "tailwindcss": "^3.2.7",
+- "webpack": "^5.76.1",
+- "webpack-cli": "^5.0.1",
+- "webpack-dev-server": "^4.11.1"
+    
+## dependencies
+- "animate.css": "^4.1.1",
+- "react": "^18.2.0",
+- "react-dom": "^18.2.0",
+- "react-router-dom": "^6.9.0",
+- "react-scroll": "^1.8.9",
+- "swiper": "^9.1.0"
