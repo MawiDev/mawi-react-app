@@ -29,7 +29,7 @@ fs.writeFileSync(
   JSON.stringify(projectPackageJson, null, 2)
 );
 
-console.log('Success! Your new project is ready.\n');
-console.log(`Created ${projectName} at ${projectDir}\n`);
-console.log('cd ${projectDir} && npm install\n');
+console.log('\nSuccess! Your new project is ready.\n');
+console.log(`Created ${projectName} at ${projectDir}`);
+console.log(`cd ${projectDir} && npm install\n`);
 console.log('Good Code!\n');
