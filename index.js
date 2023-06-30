@@ -29,9 +29,7 @@ fs.writeFileSync(
   JSON.stringify(projectPackageJson, null, 2)
 );
 
-// Esegue il comando "npm install" nella directory del progetto
-// per installare le dipendenze.
-spawn.sync('npm', ['install'], { stdio: 'inherit' });
-
-console.log('Success! Your new project is ready.');
-console.log(`Created ${projectName} at ${projectDir}`);
+console.log('Success! Your new project is ready.\n');
+console.log(`Created ${projectName} at ${projectDir}\n`);
+console.log('cd ${projectDir} && npm install\n');
+console.log('Good Code!\n');
