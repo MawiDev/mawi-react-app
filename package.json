@@ -6,11 +6,9 @@
   "author": "MawiDev",
   "license": "ISC",
   "devDependencies": {
-    "fs-extra": "^11.1.0"
+    "fs-extra": "^11.2.0"
   },
-  "bin": {
-    "mawi-react-app": "./index.js"
-  },
+  "bin": {},
   "keywords": [
     "template"
   ],
